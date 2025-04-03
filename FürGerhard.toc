@@ -2,7 +2,7 @@
 ## Title: Für Gerhard
 ## Version: 1.0
 ## Author: Peazy
-## Notes: Ich hab mir gestern achtarmig einen reingeorgelt mit Gerhard.
+## Notes: Ich hab mir gestern achtarmig einen reingeorgelt mit Gerhard. :)
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
